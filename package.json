@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/iamoki/web2-nodeJs#readme",
   "dependencies": {
+    "mysql": "^2.18.1",
     "sanitize-html": "^2.10.0"
   }
 }
